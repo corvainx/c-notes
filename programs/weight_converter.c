@@ -30,4 +30,5 @@ int main()
   else{
     printf("Invalid Choice.");
   }
+  return 0;
 }
